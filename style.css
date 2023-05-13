@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	height: 250px;
+	background: linear-gradient(45deg,#FFB6C1,#DC143C);
+}
+#menu{
+	width: 20%;
+	height: 500px;
+	background-color: 	#DC143C;
+	float: left;
+	color: white;
+	font-size: 35px;
+}
+#content{
+	width: 80%;
+	height: 500px;
+	background-color: 	#FFE4E1;
+	float: left ;
+	color: 	#DC143C;
+	font-size: 35px;
+	
+	
+
+}
+footer{
+	height: 300px;
+	clear: both;
+	background: linear-gradient(45deg,#FFB6C1,#DC143C);
+	font-size: 30px;
+}
+.rightimg {
+float: right; 
+margin: 0 7px 7px 7px; 
+}
+.leftimg {
+float:left; 
+margin: 7px 7px 7px 0; 
+}
+
+}
